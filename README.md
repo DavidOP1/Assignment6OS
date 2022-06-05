@@ -1,6 +1,12 @@
 # Assignment6OS
 Assignment 6 OS
 
+
+SOURCES:
+guard.cpp from the model
+
+Singleton:  https://refactoring.guru/design-patterns/singleton/cpp/example
+
 Files in the repo:
 
 Question 1+2: main1.c , How to run : gcc main1.c -pthread -o "name", then ./name
