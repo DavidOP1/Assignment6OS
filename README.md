@@ -21,5 +21,6 @@ When sending small letters to the servers the ceaser will not work on them , sin
 Example  Question 3:
 
 
+![Assignment6](https://user-images.githubusercontent.com/54214707/172061735-8ee64a51-97bf-4509-a334-90e3ea952672.PNG)
 
 
